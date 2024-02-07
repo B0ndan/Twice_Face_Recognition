@@ -26,7 +26,7 @@ Follow our comprehensive guide for a smooth setup. Whether for development or fa
 Be a part of this groundbreaking project.
 
 🖼️ Model h5. Download
-[Model Download]([https://developer.android.com/guide/topics/ui/layout/recyclerview](https://drive.google.com/file/d/1XYwe0s_CxWdUpujz5Wb38iqiz_WR6Q38/view?usp=sharing))
+This is the link for download the model, because the model is too large for upload in the repositories github. [Model Download]([https://drive.google.com/file/d/1XYwe0s_CxWdUpujz5Wb38iqiz_WR6Q38/view?usp=sharing])
 
 👏 Acknowledgments
 A special thank you to TWICE and JYP Entertainment for inspiring this project.
