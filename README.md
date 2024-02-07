@@ -7,7 +7,7 @@ Embark on an innovative journey with our pioneering project, where I merge the r
 🚀 Project Overview
 Goal: To build a nuanced and highly efficient face recognition system tailored for the enchanting members of TWICE.
 Method: A synergetic approach utilizing Haar Cascade classifiers alongside the deep learning prowess of TensorFlow and Keras.
-Tech Toolkit: A harmonious blend of Python, OpenCV, TensorFlow, TensorFlow Keras, and Haar Cascade Classifiers.
+Tech Toolkit: A harmonious blend of Python, OpenCV, TensorFlow, TensorFlow Keras, and HaarCascade Classifiers.
 🌈 Features
 Advanced Recognition Capabilities: Harnessing deep learning for enhanced accuracy and speed in identifying TWICE members.
 Robust and Versatile: Excelling under varied conditions, capturing the unique essence of each member in any scenario.
@@ -25,10 +25,40 @@ Follow our comprehensive guide for a smooth setup. Whether for development or fa
 🤝 Contributions
 Be a part of this groundbreaking project.
 
-🖼️ Model h5. Download
-This is the link for download the model, because the model is too large for upload in the repositories github. [Model Download]([https://drive.google.com/file/d/1XYwe0s_CxWdUpujz5Wb38iqiz_WR6Q38/view?usp=sharing])
-
 👏 Acknowledgments
 A special thank you to TWICE and JYP Entertainment for inspiring this project.
 Gratitude to the OpenCV and TensorFlow communities for their invaluable resources and support.
+
+🔥 Awesome Model Repository
+Welcome to our cutting-edge model repository! 🚀 In this repository, we house a powerful and sophisticated model that's too large to be uploaded directly to GitHub. But worry not! We've made it available for download through the link below:
+[Download Our State-of-the-Art Model](https://drive.google.com/file/d/1XYwe0s_CxWdUpujz5Wb38iqiz_WR6Q38/view?usp=sharing)
+
+
+🌐 How to Use
+To integrate our model into your project, follow these simple steps:
+1. Download the model using the [provided link](https://drive.google.com/file/d/1XYwe0s_CxWdUpujz5Wb38iqiz_WR6Q38/view?usp=sharing).
+2. **Download or Clone the Repository**: Start by downloading the repository using the following command or by cloning it:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+3. Install Dependencies: Navigate to the project directory and install the required libraries mentioned in requirements.txt:
+   ```bash
+   cd your-repository
+   pip install -r requirements.txt
+   ```
+4. Run Webcam App or Image Input App:
+If you want to experience the real-time power of our model with a webcam feed, run the following command:
+  ```
+  python Twice_streamlit_webcam_app.py
+  ```
+This will launch the webcam app, showcasing the model's capabilities on live video input.
+If you prefer using static images as input, you can run the image input app with the following command:
+  ```
+  python streamlit_image.py
+  ```
+This will allow you to input image data and observe the model's predictions.
+
+Feel free to customize the apps according to your needs, and don't hesitate to explore the codebase. If you encounter any issues or have suggestions, feel free to open an issue or submit a pull request.
+
+Happy experimenting! 🚀
 
