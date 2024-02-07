@@ -1,13 +1,14 @@
 # Twice_Face_Recognition
 
-🌟 TWICE Face Recognition with Haar Cascade - Embrace the Future of K-Pop Computer Vision! 🌟
+🌟 TWICE Face Recognition with Haar Cascade - Embrace the Future of K-Pop Computer Vision! 🌟 <br/>
 📌 Project Description<br/>
 Embark on an innovative journey with our pioneering project, where I merge the realms of K-pop and advanced computer vision. This endeavor is dedicated to creating a highly sophisticated face recognition system for the iconic K-pop girl group, TWICE. By integrating the power of the Haar Cascade algorithm with the cutting-edge capabilities of TensorFlow and Keras, I'm setting a new standard in fan engagement and idol recognition technology.
 
 🚀 Project Overview<br/>
 Goal: To build a nuanced and highly efficient face recognition system tailored for the enchanting members of TWICE.
 Method: A synergetic approach utilizing Haar Cascade classifiers alongside the deep learning prowess of TensorFlow and Keras.
-Tech Toolkit: A harmonious blend of Python, OpenCV, TensorFlow, TensorFlow Keras, and HaarCascade Classifiers.
+Tech Toolkit: A harmonious blend of Python, OpenCV, TensorFlow, TensorFlow Keras, and HaarCascade Classifiers. <br/>
+
 🌈 Features<br/>
 Advanced Recognition Capabilities: Harnessing deep learning for enhanced accuracy and speed in identifying TWICE members.
 Robust and Versatile: Excelling under varied conditions, capturing the unique essence of each member in any scenario.
@@ -34,25 +35,27 @@ Welcome to our cutting-edge model repository! 🚀 In this repository, we house 
 
 
 🌐 How to Use <br/>
-To integrate our model into your project, follow these simple steps:
+To integrate our model into your project, follow these simple steps: <br/>
 1. Download the model using the [provided link](https://drive.google.com/file/d/1XYwe0s_CxWdUpujz5Wb38iqiz_WR6Q38/view?usp=sharing).
-2. **Download or Clone the Repository**: Start by downloading the repository using the following command or by cloning it:
+2. **Download or Clone the Repository**:
+   Start by downloading the repository using the following command or by cloning it:
    ```bash
    git clone https://github.com/your-username/your-repository.git
    ```
-3. Install Dependencies: Navigate to the project directory and install the required libraries mentioned in requirements.txt:
+4. Install Dependencies:
+   Navigate to the project directory and install the required libraries mentioned in requirements.txt:
    ```bash
    cd your-repository
    pip install -r requirements.txt
    ```
-4. Run Webcam App or Image Input App:
+6. Run Webcam App or Image Input App:
    If you want to experience the real-time power of our model with a webcam feed, run the following command:
-  ```
+  ```bash
   python Twice_streamlit_webcam_app.py
   ```
    This will launch the webcam app, showcasing the model's capabilities on live video input.
    If you prefer using static images as input, you can run the image input app with the following command:
-  ```
+  ```bash
   python streamlit_image.py
   ```
    This will allow you to input image data and observe the model's predictions. <br/>
